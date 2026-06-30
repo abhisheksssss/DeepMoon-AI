@@ -1,4 +1,4 @@
-# 🌙 DeepMoon AI — Lunar Subsurface Ice Detection & Exploration Planning
+# DeepMoon AI — Lunar Subsurface Ice Detection & Exploration Planning
 
 > **ISRO Hackathon 2025 · Problem Statement 8**  
 > Detection and Characterization of Subsurface Ice in Lunar South Polar Regions  
@@ -194,5 +194,3 @@ matplotlib ≥ 3.8     pandas ≥ 2.2      fpdf2 ≥ 2.7
 6. Polder & van Santen (1946) – *The effective permeability of mixtures*
 
 ---
-
-If there's a specific **code error** you encountered while running the dashboard (not just the README), please share the error message or the problematic part — I'm happy to fix that too! 😊
